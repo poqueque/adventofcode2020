@@ -12,7 +12,8 @@ object InputReader {
         return fromResources(day).readLines()
     }
 
+    @Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
     private fun fromResources(day: Int): File {
-        return File(javaClass.classLoader.getResource("input_day_$day.txt").toURI())
+        return File(javaClass.classLoader.getResource("input_day_${day.toString().padStart(2, '0')}.txt").toURI())
     }
 }

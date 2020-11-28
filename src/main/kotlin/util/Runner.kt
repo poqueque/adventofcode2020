@@ -13,16 +13,16 @@ object Runner {
     private val reflections = Reflections("days")
 
     @JvmStatic
-    fun main(args: Array<String>) {
-        if (args.isNotEmpty()) {
-            if (args[0] == "max"){
-                val allDayClasses = getAllDayClasses()
-                if (allDayClasses != null) {
-                    allDayClasses.sortedBy { dayNumber(it.simpleName) }.last().let { printDay(it) }
-                } else {
-                    printError("Couldn't find day classes - make sure you're in the right directory and try building again")
-                }
+    fun main(args: Array<String>? = null) {
+        if (args == null){
+            val allDayClasses = getAllDayClasses()
+            if (allDayClasses != null) {
+                allDayClasses.maxByOrNull { dayNumber(it.simpleName) }?.let { printDay(it) }
             } else {
+                printError("Couldn't find day classes - make sure you're in the right directory and try building again")
+            }
+        } else {
+            if (args.isNotEmpty()) {
                 val day = try {
                     args[0].toInt()
                 } catch (e: NumberFormatException) {
@@ -36,13 +36,13 @@ object Runner {
                 } else {
                     printError("Day $day not found")
                 }
-            }
-        } else {
-            val allDayClasses = getAllDayClasses()
-            if (allDayClasses != null) {
-                allDayClasses.sortedBy { dayNumber(it.simpleName) }.forEach { printDay(it) }
             } else {
-                printError("Couldn't find day classes - make sure you're in the right directory and try building again")
+                val allDayClasses = getAllDayClasses()
+                if (allDayClasses != null) {
+                    allDayClasses.sortedBy { dayNumber(it.simpleName) }.forEach { printDay(it) }
+                } else {
+                    printError("Couldn't find day classes - make sure you're in the right directory and try building again")
+                }
             }
         }
     }

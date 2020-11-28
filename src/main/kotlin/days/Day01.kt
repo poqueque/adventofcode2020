@@ -3,10 +3,10 @@ package days
 class Day01 : Day(1) {
 
     override fun partOne(): Any {
-        return 0
+        return inputString.length
     }
 
     override fun partTwo(): Any {
-        return 0
+        return inputList.size
     }
 }
