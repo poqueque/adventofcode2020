@@ -1,6 +1,8 @@
 package util
 
+import org.reflections.vfs.Vfs
 import java.io.File
+import java.net.URL
 
 object InputReader {
 
@@ -10,6 +12,17 @@ object InputReader {
 
     fun getInputAsList(day: Int): List<String> {
         return fromResources(day).readLines()
+    }
+
+    fun getInputAsMap(day: Int): CoorMap {
+        return CoorMap(getInputAsList(day))
+    }
+
+    //Not working - Need to manage login
+    fun savePuzzleInput(day: Int) {
+        System.setProperty("http.agent", "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0")
+        val data = URL("https://adventofcode.com/2020/day/$day/input").readText()
+        fromResources(day).writeText(data)
     }
 
     @Suppress("RECEIVER_NULLABILITY_MISMATCH_BASED_ON_JAVA_ANNOTATIONS")
