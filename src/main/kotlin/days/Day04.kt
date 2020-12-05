@@ -27,9 +27,9 @@ class Day04 : Day(4) {
         var hcl = false
         var ecl = false
         var pid = false
-        var cid = false
+//        var cid = false
         fields.forEach {
-            val (code, value) = it.splitrim(":")
+            val (code, _) = it.splitrim(":")
             if (code == "byr") byr = true
             if (code == "iyr") iyr = true
             if (code == "eyr") eyr = true
@@ -37,7 +37,7 @@ class Day04 : Day(4) {
             if (code == "hcl") hcl = true
             if (code == "ecl") ecl = true
             if (code == "pid") pid = true
-            if (code == "cid") cid = true
+//            if (code == "cid") cid = true
         }
         return (byr && iyr && eyr && hgt && hcl && ecl && pid)
     }
@@ -65,7 +65,7 @@ class Day04 : Day(4) {
         var hcl = false
         var ecl = false
         var pid = false
-        var cid = false
+//        var cid = false
         fields.forEach {
             val (code, value) = it.splitrim(":")
             if (code == "byr" && value.toInt() >= 1920 && value.toInt() <= 2002) byr = true
@@ -85,7 +85,7 @@ class Day04 : Day(4) {
             if (code == "pid"
                 && value.matches("^\\d{9}$".toRegex())
             ) pid = true
-            if (code == "cid") cid = true
+//            if (code == "cid") cid = true
         }
         return (byr && iyr && eyr && hgt && hcl && ecl && pid)
     }
