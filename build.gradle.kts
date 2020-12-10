@@ -10,10 +10,12 @@ version = "1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
+    jcenter()
 }
 
 dependencies {
     implementation("org.reflections", "reflections", "0.9.12")
+    implementation("com.beust","klaxon","5.0.1")
     testImplementation(kotlin("test-junit"))
 }
 
