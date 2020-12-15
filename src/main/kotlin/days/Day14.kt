@@ -1,5 +1,6 @@
 package days
 
+import util.indexesOf
 import util.splitrim
 import kotlin.math.pow
 
@@ -89,12 +90,3 @@ class Day14 : Day(14) {
     }
 }
 
-private fun CharSequence.indexesOf(c: Char) : List<Int>{
-    var index: Int = this.indexOf(c)
-    val retVal = mutableListOf<Int>()
-    while (index >= 0) {
-        retVal.add(index)
-        index = this.indexOf(c,startIndex = index + 1)
-    }
-    return retVal
-}
