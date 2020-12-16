@@ -1,5 +1,6 @@
 package days
 
+@Suppress("unused")
 class Day01 : Day(1) {
 
     override fun partOne(): Any {

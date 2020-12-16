@@ -3,9 +3,10 @@ package days
 import util.Coor
 import kotlin.math.abs
 
+@Suppress("unused")
 class Day12 : Day(12) {
 
-    val dirs = "ESWNESWNESWN"
+    private val dirs = "ESWNESWNESWN"
 
     override fun partOne(): Any {
         var position= Coor(0,0)

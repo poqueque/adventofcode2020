@@ -2,6 +2,7 @@ package days
 
 import util.splitrim
 
+@Suppress("unused")
 class Day02 : Day(2) {
 
     override fun partOne(): Any {

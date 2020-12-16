@@ -4,6 +4,7 @@ import util.indexesOf
 import util.splitrim
 import kotlin.math.pow
 
+@Suppress("unused")
 class Day14 : Day(14) {
 
     override fun partOne(): Any {

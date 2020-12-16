@@ -2,6 +2,7 @@ package days
 
 import kotlin.math.pow
 
+@Suppress("unused")
 class Day10 : Day(10) {
 
     override fun partOne(): Any {

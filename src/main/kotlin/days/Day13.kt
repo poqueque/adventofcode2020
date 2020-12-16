@@ -3,6 +3,7 @@ package days
 import util.splitrim
 import java.math.BigInteger
 
+@Suppress("unused")
 class Day13 : Day(13) {
 
     override fun partOne(): Any {
@@ -21,7 +22,6 @@ class Day13 : Day(13) {
     }
 
     override fun partTwo(): Any {
-        val time = inputList[0].toInt()
         val list = inputList[1].splitrim(",").map{ if (it=="x") 0 else it.toInt()}
         var sum = 0L
         var p = 1L
@@ -32,10 +32,10 @@ class Day13 : Day(13) {
             if (it != 0) {
                 val c1 = (it - list.indexOf(it)) %it
                 val m1 = it
-                val M1 = p/m1
-                val M1modm1 = M1%m1
-                val y1 = BigInteger.valueOf(M1modm1.toLong()).modInverse(BigInteger.valueOf(m1.toLong())).toInt()
-                sum += c1*M1*y1
+                val bigM1 = p/m1
+                val bigM1ModM1 = bigM1%m1
+                val y1 = BigInteger.valueOf(bigM1ModM1).modInverse(BigInteger.valueOf(m1.toLong())).toInt()
+                sum += c1*bigM1*y1
             }
         }
         return sum%p

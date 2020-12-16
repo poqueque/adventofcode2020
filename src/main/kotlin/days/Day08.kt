@@ -2,6 +2,7 @@ package days
 
 import util.GameConsole
 
+@Suppress("unused")
 class Day08 : Day(8) {
 
     override fun partOne(): Any {

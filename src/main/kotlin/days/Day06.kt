@@ -1,5 +1,6 @@
 package days
 
+@Suppress("unused")
 class Day06 : Day(6) {
 
     override fun partOne(): Any {
@@ -7,8 +8,8 @@ class Day06 : Day(6) {
         var total = 0
         inputList.forEach {
             if (it != "") {
-                it.forEach{
-                    if (!answers.contains(it.toString())) answers.add(it.toString())
+                it.forEach{ char ->
+                    if (!answers.contains(char.toString())) answers.add(char.toString())
                 }
             } else {
                 total += answers.size

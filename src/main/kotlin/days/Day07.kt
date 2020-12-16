@@ -2,18 +2,19 @@ package days
 
 import util.splitrim
 
+@Suppress("unused")
 class Day07 : Day(7) {
 
-    var rules = mutableMapOf<String,List<Pair<Int,String>>>()
+    private var rules = mutableMapOf<String,List<Pair<Int,String>>>()
 
-    fun init() {
+    private fun init() {
         inputList.forEach {
             val rule = mutableListOf<Pair<Int,String>>()
             val (key,list) = it.splitrim("contain")
             val key1 = key.replace("bags","").trim()
             val data = list.splitrim(",")
-            data.forEach {
-                val words = it.splitrim(" ")
+            data.forEach { value ->
+                val words = value.splitrim(" ")
                 val number = words[0]
                 val type = "${words[1]} ${words[2]}"
                 if (number != "no")

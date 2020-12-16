@@ -2,6 +2,7 @@ package days
 
 import kotlin.math.max
 
+@Suppress("unused")
 class Day05 : Day(5) {
 
     override fun partOne(): Any {

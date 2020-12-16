@@ -2,6 +2,7 @@ package days
 
 import util.Coor
 
+@Suppress("unused")
 class Day03 : Day(3) {
 
     override fun partOne(): Any {
@@ -17,7 +18,7 @@ class Day03 : Day(3) {
     }
 
     override fun partTwo(): Any {
-        var map = inputMap.map
+        val map = inputMap.map
         val totX = inputMap.maxX
         val totY = inputMap.maxY
         var product = 1
