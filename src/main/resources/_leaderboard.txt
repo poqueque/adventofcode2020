@@ -1,19 +1,22 @@
+
 {
   "members": {
     "1292": {
-      "local_score": 0,
-      "global_score": 0,
-      "id": "1292",
-      "stars": 0,
       "completion_day_level": {
 
       },
+      "last_star_ts": "0",
+      "global_score": 0,
+      "id": "1292",
+      "stars": 0,
       "name": "Stavros Champilomatis",
-      "last_star_ts": 0
+      "local_score": 0
     },
     "5778": {
-      "stars": 8,
       "id": "5778",
+      "stars": 8,
+      "name": null,
+      "last_star_ts": "1607369274",
       "completion_day_level": {
         "1": {
           "1": {
@@ -48,15 +51,15 @@
           }
         }
       },
-      "last_star_ts": "1607369274",
-      "name": null,
-      "local_score": 275,
-      "global_score": 0
+      "global_score": 0,
+      "local_score": 275
     },
     "6173": {
-      "global_score": 0,
-      "local_score": 1157,
+      "local_score": 1435,
+      "stars": 25,
       "name": "nvojkovic",
+      "id": "6173",
+      "last_star_ts": "1608337035",
       "completion_day_level": {
         "1": {
           "1": {
@@ -130,6 +133,14 @@
             "get_star_ts": "1607520104"
           }
         },
+        "10": {
+          "1": {
+            "get_star_ts": "1608158912"
+          },
+          "2": {
+            "get_star_ts": "1608161321"
+          }
+        },
         "11": {
           "1": {
             "get_star_ts": "1607689634"
@@ -137,35 +148,50 @@
           "2": {
             "get_star_ts": "1607691219"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607814536"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1608165887"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608337035"
+          }
         }
       },
-      "last_star_ts": "1607691219",
-      "stars": 20,
-      "id": "6173"
+      "global_score": 0
     },
     "14015": {
       "local_score": 0,
-      "global_score": 0,
       "stars": 0,
       "id": "14015",
+      "name": "Fernando Gasperi",
+      "global_score": 0,
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "name": "Fernando Gasperi"
+      "last_star_ts": "0"
     },
     "30340": {
-      "local_score": 0,
-      "global_score": 0,
       "name": "Francisco Soares",
+      "stars": 0,
+      "id": "30340",
+      "global_score": 0,
+      "last_star_ts": "0",
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "stars": 0,
-      "id": "30340"
+      "local_score": 0
     },
     "52016": {
+      "local_score": 0,
+      "global_score": 0,
       "completion_day_level": {
         "1": {
           "1": {
@@ -176,30 +202,25 @@
           }
         }
       },
-      "name": "iamkd",
       "last_star_ts": "1606839288",
-      "stars": 2,
       "id": "52016",
-      "global_score": 0,
-      "local_score": 0
+      "stars": 2,
+      "name": "iamkd"
     },
     "77273": {
-      "last_star_ts": 0,
+      "local_score": 0,
+      "id": "77273",
+      "stars": 0,
+      "name": "Doug Sparling",
+      "last_star_ts": "0",
       "completion_day_level": {
 
       },
-      "name": "Doug Sparling",
-      "id": "77273",
-      "stars": 0,
-      "local_score": 0,
       "global_score": 0
     },
     "98658": {
-      "local_score": 1236,
-      "global_score": 0,
-      "stars": 22,
-      "id": "98658",
-      "name": "Miho Krušić",
+      "local_score": 2379,
+      "last_star_ts": "1608485840",
       "completion_day_level": {
         "1": {
           "1": {
@@ -288,12 +309,86 @@
           "2": {
             "get_star_ts": "1607675692"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607759221"
+          },
+          "2": {
+            "get_star_ts": "1607771725"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607841308"
+          },
+          "2": {
+            "get_star_ts": "1607873057"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607934261"
+          },
+          "2": {
+            "get_star_ts": "1607936188"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608020884"
+          },
+          "2": {
+            "get_star_ts": "1608020943"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608107108"
+          },
+          "2": {
+            "get_star_ts": "1608109572"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608200183"
+          },
+          "2": {
+            "get_star_ts": "1608200401"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608288421"
+          },
+          "2": {
+            "get_star_ts": "1608299642"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608402799"
+          },
+          "2": {
+            "get_star_ts": "1608465684"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608485840"
+          }
         }
       },
-      "last_star_ts": "1607675692"
+      "global_score": 0,
+      "stars": 39,
+      "id": "98658",
+      "name": "Miho Krušić"
     },
     "106447": {
-      "last_star_ts": "1607683090",
+      "local_score": 1164,
+      "global_score": 0,
+      "last_star_ts": "1607772720",
       "completion_day_level": {
         "1": {
           "1": {
@@ -382,20 +477,22 @@
           "2": {
             "get_star_ts": "1607683090"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607772720"
+          }
         }
       },
+      "stars": 23,
       "name": "dbikic",
-      "stars": 22,
-      "id": "106447",
-      "local_score": 1100,
-      "global_score": 0
+      "id": "106447"
     },
     "120674": {
-      "global_score": 0,
-      "local_score": 869,
-      "id": "120674",
       "stars": 19,
-      "last_star_ts": "1607609490",
+      "name": "jshreynolds",
+      "id": "120674",
+      "global_score": 0,
       "completion_day_level": {
         "1": {
           "1": {
@@ -475,12 +572,14 @@
           }
         }
       },
-      "name": "jshreynolds"
+      "last_star_ts": "1607609490",
+      "local_score": 869
     },
     "138806": {
-      "local_score": 1424,
-      "global_score": 0,
+      "local_score": 1962,
       "name": "copy",
+      "stars": 31,
+      "id": "138806",
       "completion_day_level": {
         "1": {
           "1": {
@@ -569,24 +668,61 @@
           "2": {
             "get_star_ts": "1607736756"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607921113"
+          },
+          "2": {
+            "get_star_ts": "1607926521"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1608006014"
+          },
+          "2": {
+            "get_star_ts": "1608010225"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1608054277"
+          },
+          "2": {
+            "get_star_ts": "1608069730"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608182635"
+          },
+          "2": {
+            "get_star_ts": "1608185014"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608269906"
+          }
         }
       },
-      "last_star_ts": "1607736756",
-      "id": "138806",
-      "stars": 22
+      "last_star_ts": "1608269906",
+      "global_score": 0
     },
     "141532": {
-      "local_score": 0,
       "global_score": 0,
-      "id": "141532",
-      "stars": 0,
+      "last_star_ts": "0",
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "name": "eeveeta"
+      "stars": 0,
+      "name": "eeveeta",
+      "id": "141532",
+      "local_score": 0
     },
     "167393": {
+      "last_star_ts": "1606892085",
       "completion_day_level": {
         "1": {
           "1": {
@@ -605,14 +741,18 @@
           }
         }
       },
-      "last_star_ts": "1606892085",
-      "name": "Copot Matei",
-      "id": "167393",
-      "stars": 4,
       "global_score": 0,
+      "stars": 4,
+      "id": "167393",
+      "name": "Copot Matei",
       "local_score": 132
     },
     "181945": {
+      "local_score": 2254,
+      "stars": 40,
+      "id": "181945",
+      "name": "tibi77",
+      "global_score": 0,
       "completion_day_level": {
         "1": {
           "1": {
@@ -677,20 +817,109 @@
           "2": {
             "get_star_ts": "1607450640"
           }
+        },
+        "9": {
+          "1": {
+            "get_star_ts": "1608480335"
+          },
+          "2": {
+            "get_star_ts": "1608480372"
+          }
+        },
+        "10": {
+          "1": {
+            "get_star_ts": "1608481265"
+          },
+          "2": {
+            "get_star_ts": "1608481488"
+          }
+        },
+        "11": {
+          "1": {
+            "get_star_ts": "1608481836"
+          },
+          "2": {
+            "get_star_ts": "1608481842"
+          }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1608481982"
+          },
+          "2": {
+            "get_star_ts": "1608481990"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1608482099"
+          },
+          "2": {
+            "get_star_ts": "1608482107"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1608482300"
+          },
+          "2": {
+            "get_star_ts": "1608482307"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608482446"
+          },
+          "2": {
+            "get_star_ts": "1608482457"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608482619"
+          },
+          "2": {
+            "get_star_ts": "1608482626"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608482699"
+          },
+          "2": {
+            "get_star_ts": "1608482710"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608483048"
+          },
+          "2": {
+            "get_star_ts": "1608483054"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608483155"
+          },
+          "2": {
+            "get_star_ts": "1608483160"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608484473"
+          },
+          "2": {
+            "get_star_ts": "1608484482"
+          }
         }
       },
-      "name": "tibi77",
-      "last_star_ts": "1607450640",
-      "stars": 16,
-      "id": "181945",
-      "global_score": 0,
-      "local_score": 847
+      "last_star_ts": "1608484482"
     },
     "193602": {
       "global_score": 0,
-      "local_score": 1337,
-      "stars": 22,
-      "id": "193602",
+      "last_star_ts": "1608494420",
       "completion_day_level": {
         "1": {
           "1": {
@@ -779,15 +1008,79 @@
           "2": {
             "get_star_ts": "1607671267"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607761189"
+          },
+          "2": {
+            "get_star_ts": "1607765647"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607844223"
+          },
+          "2": {
+            "get_star_ts": "1607850876"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607929760"
+          },
+          "2": {
+            "get_star_ts": "1607967180"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608017209"
+          },
+          "2": {
+            "get_star_ts": "1608025808"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608100802"
+          },
+          "2": {
+            "get_star_ts": "1608147930"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608229704"
+          },
+          "2": {
+            "get_star_ts": "1608366839"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608272720"
+          },
+          "2": {
+            "get_star_ts": "1608291602"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608372338"
+          },
+          "2": {
+            "get_star_ts": "1608494420"
+          }
         }
       },
+      "stars": 38,
       "name": "Tomislav Bacinger",
-      "last_star_ts": "1607671267"
+      "id": "193602",
+      "local_score": 2411
     },
     "194755": {
-      "stars": 22,
-      "id": "194755",
-      "last_star_ts": "1607667689",
+      "last_star_ts": "1608373079",
       "completion_day_level": {
         "1": {
           "1": {
@@ -876,15 +1169,81 @@
           "2": {
             "get_star_ts": "1607667689"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607777405"
+          },
+          "2": {
+            "get_star_ts": "1607780173"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607851888"
+          },
+          "2": {
+            "get_star_ts": "1607879835"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607924201"
+          },
+          "2": {
+            "get_star_ts": "1607927167"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608010861"
+          },
+          "2": {
+            "get_star_ts": "1608011198"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608096263"
+          },
+          "2": {
+            "get_star_ts": "1608099762"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608182780"
+          },
+          "2": {
+            "get_star_ts": "1608183081"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608271135"
+          },
+          "2": {
+            "get_star_ts": "1608271200"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608372910"
+          },
+          "2": {
+            "get_star_ts": "1608373079"
+          }
         }
       },
+      "global_score": 0,
+      "id": "194755",
+      "stars": 38,
       "name": "Erlend Hamberg",
-      "local_score": 1397,
-      "global_score": 0
+      "local_score": 2512
     },
     "208490": {
       "global_score": 0,
-      "local_score": 110,
+      "last_star_ts": "1606914646",
       "completion_day_level": {
         "1": {
           "1": {
@@ -903,15 +1262,14 @@
           }
         }
       },
-      "last_star_ts": "1606914646",
-      "name": null,
       "stars": 4,
-      "id": "208490"
+      "name": null,
+      "id": "208490",
+      "local_score": 110
     },
     "217854": {
-      "global_score": 0,
-      "local_score": 1221,
-      "name": "acburdine",
+      "local_score": 2317,
+      "last_star_ts": "1608501323",
       "completion_day_level": {
         "1": {
           "1": {
@@ -1000,17 +1358,85 @@
           "2": {
             "get_star_ts": "1607685428"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607780874"
+          },
+          "2": {
+            "get_star_ts": "1607781894"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607861070"
+          },
+          "2": {
+            "get_star_ts": "1607887361"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607941324"
+          },
+          "2": {
+            "get_star_ts": "1607942615"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608028115"
+          },
+          "2": {
+            "get_star_ts": "1608029420"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608114729"
+          },
+          "2": {
+            "get_star_ts": "1608116822"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608204668"
+          },
+          "2": {
+            "get_star_ts": "1608205948"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608290413"
+          },
+          "2": {
+            "get_star_ts": "1608299107"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608488091"
+          },
+          "2": {
+            "get_star_ts": "1608499396"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608501323"
+          }
         }
       },
-      "last_star_ts": "1607685428",
-      "id": "217854",
-      "stars": 22
+      "global_score": 0,
+      "stars": 39,
+      "name": "acburdine",
+      "id": "217854"
     },
     "259126": {
       "global_score": 0,
-      "local_score": 1305,
-      "id": "259126",
-      "stars": 22,
+      "last_star_ts": "1607781245",
       "completion_day_level": {
         "1": {
           "1": {
@@ -1099,15 +1525,26 @@
           "2": {
             "get_star_ts": "1607674973"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607760185"
+          },
+          "2": {
+            "get_star_ts": "1607781245"
+          }
         }
       },
+      "stars": 24,
       "name": "iprlic",
-      "last_star_ts": "1607674973"
+      "id": "259126",
+      "local_score": 1438
     },
     "298081": {
-      "global_score": 0,
-      "local_score": 1242,
+      "id": "298081",
+      "stars": 27,
       "name": "Vidor Gencel",
+      "last_star_ts": "1607942533",
       "completion_day_level": {
         "1": {
           "1": {
@@ -1196,16 +1633,36 @@
           "2": {
             "get_star_ts": "1607679844"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607763628"
+          },
+          "2": {
+            "get_star_ts": "1607765509"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607851684"
+          },
+          "2": {
+            "get_star_ts": "1607861001"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607942533"
+          }
         }
       },
-      "last_star_ts": "1607679844",
-      "id": "298081",
-      "stars": 22
+      "global_score": 0,
+      "local_score": 1579
     },
     "367895": {
+      "local_score": 2888,
       "global_score": 0,
-      "local_score": 1572,
-      "last_star_ts": "1607750523",
+      "last_star_ts": "1608529100",
       "completion_day_level": {
         "1": {
           "1": {
@@ -1302,35 +1759,109 @@
           "2": {
             "get_star_ts": "1607750523"
           }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607836491"
+          },
+          "2": {
+            "get_star_ts": "1607844649"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607925292"
+          },
+          "2": {
+            "get_star_ts": "1607929570"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608009035"
+          },
+          "2": {
+            "get_star_ts": "1608010833"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608096057"
+          },
+          "2": {
+            "get_star_ts": "1608097725"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608184963"
+          },
+          "2": {
+            "get_star_ts": "1608186107"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608269346"
+          },
+          "2": {
+            "get_star_ts": "1608269702"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608355942"
+          },
+          "2": {
+            "get_star_ts": "1608357970"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608442854"
+          },
+          "2": {
+            "get_star_ts": "1608448197"
+          }
+        },
+        "21": {
+          "1": {
+            "get_star_ts": "1608528857"
+          },
+          "2": {
+            "get_star_ts": "1608529100"
+          }
         }
       },
       "name": "Primetalk",
-      "id": "367895",
-      "stars": 24
+      "stars": 42,
+      "id": "367895"
     },
     "391422": {
-      "name": "czak",
+      "global_score": 0,
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "id": "391422",
+      "last_star_ts": "0",
       "stars": 0,
-      "global_score": 0,
+      "id": "391422",
+      "name": "czak",
       "local_score": 0
     },
     "399712": {
-      "last_star_ts": 0,
+      "last_star_ts": "0",
       "completion_day_level": {
 
       },
-      "name": "Alexander Velichkin",
+      "global_score": 0,
       "id": "399712",
       "stars": 0,
-      "local_score": 0,
-      "global_score": 0
+      "name": "Alexander Velichkin",
+      "local_score": 0
     },
     "425107": {
+      "local_score": 78,
+      "global_score": 0,
       "completion_day_level": {
         "1": {
           "1": {
@@ -1349,49 +1880,47 @@
           }
         }
       },
-      "name": "@jezdikm",
       "last_star_ts": "1607493896",
       "stars": 4,
       "id": "425107",
-      "global_score": 0,
-      "local_score": 78
+      "name": "@jezdikm"
     },
     "608624": {
+      "local_score": 0,
+      "name": "puma3",
       "stars": 1,
       "id": "608624",
+      "global_score": 0,
+      "last_star_ts": "1607602249",
       "completion_day_level": {
         "1": {
           "1": {
             "get_star_ts": "1607602249"
           }
         }
-      },
-      "name": "puma3",
-      "last_star_ts": "1607602249",
-      "global_score": 0,
-      "local_score": 0
+      }
     },
     "620508": {
-      "id": "620508",
+      "local_score": 0,
+      "name": null,
       "stars": 0,
+      "id": "620508",
       "completion_day_level": {
 
       },
-      "name": null,
-      "last_star_ts": 0,
-      "global_score": 0,
-      "local_score": 0
+      "last_star_ts": "0",
+      "global_score": 0
     },
     "637864": {
       "local_score": 0,
-      "global_score": 0,
-      "id": "637864",
       "stars": 0,
+      "id": "637864",
+      "name": "toptal_advent",
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "name": "toptal_advent"
+      "last_star_ts": "0",
+      "global_score": 0
     },
     "641898": {
       "completion_day_level": {
@@ -1413,27 +1942,24 @@
         }
       },
       "last_star_ts": "1607423678",
-      "name": "@pvl",
+      "global_score": 0,
       "stars": 4,
+      "name": "@pvl",
       "id": "641898",
-      "local_score": 84,
-      "global_score": 0
+      "local_score": 84
     },
     "689158": {
+      "local_score": 0,
+      "stars": 0,
+      "id": "689158",
+      "name": "Roman Petrov",
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "name": "Roman Petrov",
-      "id": "689158",
-      "stars": 0,
-      "local_score": 0,
+      "last_star_ts": "0",
       "global_score": 0
     },
     "691348": {
-      "local_score": 1597,
-      "global_score": 0,
-      "last_star_ts": "1607750549",
       "completion_day_level": {
         "1": {
           "1": {
@@ -1530,83 +2056,155 @@
           "2": {
             "get_star_ts": "1607750549"
           }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607836095"
+          },
+          "2": {
+            "get_star_ts": "1607843862"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607923157"
+          },
+          "2": {
+            "get_star_ts": "1607925189"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608009038"
+          },
+          "2": {
+            "get_star_ts": "1608009880"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608096204"
+          },
+          "2": {
+            "get_star_ts": "1608101989"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608182253"
+          },
+          "2": {
+            "get_star_ts": "1608183702"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608269517"
+          },
+          "2": {
+            "get_star_ts": "1608281085"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608358362"
+          },
+          "2": {
+            "get_star_ts": "1608360854"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608442610"
+          },
+          "2": {
+            "get_star_ts": "1608490428"
+          }
+        },
+        "21": {
+          "1": {
+            "get_star_ts": "1608531090"
+          },
+          "2": {
+            "get_star_ts": "1608531355"
+          }
         }
       },
+      "last_star_ts": "1608531355",
+      "global_score": 0,
+      "stars": 42,
       "name": "Eduard Carreras",
       "id": "691348",
-      "stars": 24
+      "local_score": 2899
     },
     "708369": {
-      "id": "708369",
-      "stars": 0,
-      "name": "developeruz",
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
+      "last_star_ts": "0",
       "global_score": 0,
+      "stars": 0,
+      "id": "708369",
+      "name": "developeruz",
       "local_score": 0
     },
     "716049": {
+      "local_score": 0,
       "stars": 0,
+      "name": "rbasto1",
       "id": "716049",
+      "last_star_ts": "0",
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "name": "rbasto1",
-      "local_score": 0,
       "global_score": 0
     },
     "723039": {
-      "completion_day_level": {
-
-      },
-      "last_star_ts": 0,
       "name": "glukki",
       "stars": 0,
       "id": "723039",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
       "global_score": 0,
       "local_score": 0
     },
     "723218": {
-      "last_star_ts": 0,
+      "local_score": 0,
+      "id": "723218",
+      "stars": 0,
+      "name": "Sinan",
+      "global_score": 0,
       "completion_day_level": {
 
       },
-      "name": "Sinan",
-      "id": "723218",
-      "stars": 0,
-      "local_score": 0,
-      "global_score": 0
+      "last_star_ts": "0"
     },
     "727721": {
       "local_score": 0,
-      "global_score": 0,
-      "stars": 0,
       "id": "727721",
+      "stars": 0,
       "name": "Kostas Kostoglou",
+      "global_score": 0,
       "completion_day_level": {
 
       },
-      "last_star_ts": 0
+      "last_star_ts": "0"
     },
     "775748": {
-      "global_score": 0,
       "local_score": 0,
+      "name": "Sachin Mour",
       "stars": 0,
       "id": "775748",
       "completion_day_level": {
 
       },
-      "name": "Sachin Mour",
-      "last_star_ts": 0
+      "last_star_ts": "0",
+      "global_score": 0
     },
     "777483": {
-      "local_score": 1131,
-      "global_score": 0,
-      "stars": 22,
-      "id": "777483",
+      "local_score": 2297,
       "completion_day_level": {
         "1": {
           "1": {
@@ -1695,47 +2293,124 @@
           "2": {
             "get_star_ts": "1607704571"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607787620"
+          },
+          "2": {
+            "get_star_ts": "1607788614"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607871449"
+          },
+          "2": {
+            "get_star_ts": "1607875391"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607959600"
+          },
+          "2": {
+            "get_star_ts": "1607961296"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608044645"
+          },
+          "2": {
+            "get_star_ts": "1608046891"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608131878"
+          },
+          "2": {
+            "get_star_ts": "1608134425"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608216211"
+          },
+          "2": {
+            "get_star_ts": "1608216714"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608303409"
+          },
+          "2": {
+            "get_star_ts": "1608303741"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608398324"
+          },
+          "2": {
+            "get_star_ts": "1608402487"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608484320"
+          },
+          "2": {
+            "get_star_ts": "1608486918"
+          }
         }
       },
-      "last_star_ts": "1607704571",
+      "last_star_ts": "1608486918",
+      "global_score": 0,
+      "stars": 40,
+      "id": "777483",
       "name": "Avery Pierce"
     },
     "784038": {
-      "global_score": 0,
-      "local_score": 0,
-      "id": "784038",
-      "stars": 0,
       "name": "Rodrigo Donini",
-      "completion_day_level": {
-
-      },
-      "last_star_ts": 0
-    },
-    "802651": {
-      "completion_day_level": {
-
-      },
-      "last_star_ts": 0,
-      "name": "Nikolay Ivanov",
-      "id": "802651",
       "stars": 0,
-      "local_score": 0,
-      "global_score": 0
-    },
-    "807018": {
-      "stars": 0,
-      "id": "807018",
+      "id": "784038",
       "completion_day_level": {
 
       },
-      "name": "xokker",
-      "last_star_ts": 0,
+      "last_star_ts": "0",
       "global_score": 0,
       "local_score": 0
     },
+    "802651": {
+      "local_score": 0,
+      "id": "802651",
+      "stars": 0,
+      "name": "Nikolay Ivanov",
+      "global_score": 0,
+      "completion_day_level": {
+
+      },
+      "last_star_ts": "0"
+    },
+    "807018": {
+      "local_score": 0,
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
+      "global_score": 0,
+      "id": "807018",
+      "stars": 0,
+      "name": "xokker"
+    },
     "810574": {
+      "local_score": 1056,
       "id": "810574",
-      "stars": 20,
+      "stars": 22,
+      "name": "Matas Seimys",
       "completion_day_level": {
         "1": {
           "1": {
@@ -1816,40 +2491,49 @@
           "2": {
             "get_star_ts": "1607633022"
           }
+        },
+        "11": {
+          "1": {
+            "get_star_ts": "1607981875"
+          },
+          "2": {
+            "get_star_ts": "1607985495"
+          }
         }
       },
-      "last_star_ts": "1607633022",
-      "name": "Matas Seimys",
-      "global_score": 0,
-      "local_score": 944
+      "last_star_ts": "1607985495",
+      "global_score": 0
     },
     "812277": {
-      "global_score": 0,
       "local_score": 0,
-      "stars": 0,
-      "id": "812277",
-      "last_star_ts": 0,
+      "global_score": 0,
       "completion_day_level": {
-
+        "1": {
+          "1": {
+            "get_star_ts": "1607982796"
+          }
+        }
       },
+      "last_star_ts": "1607982796",
+      "id": "812277",
+      "stars": 1,
       "name": "Gangadharan Kuruvath"
     },
     "820505": {
       "local_score": 0,
-      "global_score": 0,
-      "id": "820505",
       "stars": 0,
+      "name": "aneem",
+      "id": "820505",
+      "global_score": 0,
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "name": "aneem"
+      "last_star_ts": "0"
     },
     "833111": {
-      "local_score": 1353,
-      "global_score": 0,
-      "stars": 22,
       "id": "833111",
+      "stars": 42,
+      "name": "Tomáš Livora",
       "completion_day_level": {
         "1": {
           "1": {
@@ -1938,46 +2622,129 @@
           "2": {
             "get_star_ts": "1607673506"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607768955"
+          },
+          "2": {
+            "get_star_ts": "1607776689"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607849568"
+          },
+          "2": {
+            "get_star_ts": "1607868957"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607925846"
+          },
+          "2": {
+            "get_star_ts": "1607928753"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608013517"
+          },
+          "2": {
+            "get_star_ts": "1608014630"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608098613"
+          },
+          "2": {
+            "get_star_ts": "1608100322"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608187658"
+          },
+          "2": {
+            "get_star_ts": "1608188016"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608275734"
+          },
+          "2": {
+            "get_star_ts": "1608277622"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608357321"
+          },
+          "2": {
+            "get_star_ts": "1608361566"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608444943"
+          },
+          "2": {
+            "get_star_ts": "1608467620"
+          }
+        },
+        "21": {
+          "1": {
+            "get_star_ts": "1608529699"
+          },
+          "2": {
+            "get_star_ts": "1608531008"
+          }
         }
       },
-      "name": "livthomas",
-      "last_star_ts": "1607673506"
+      "last_star_ts": "1608531008",
+      "global_score": 0,
+      "local_score": 2753
     },
     "846014": {
-      "id": "846014",
+      "local_score": 0,
       "stars": 0,
+      "id": "846014",
       "name": "Migiyaka",
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
+      "last_star_ts": "0",
+      "global_score": 0
+    },
+    "850968": {
+      "stars": 0,
+      "id": "850968",
+      "name": "Kevin Bauer",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
       "global_score": 0,
       "local_score": 0
     },
-    "850968": {
-      "local_score": 0,
+    "857652": {
+      "id": "857652",
+      "stars": 0,
+      "name": "Nikita Kurpas",
       "global_score": 0,
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
-      "name": "Kevin Bauer",
-      "stars": 0,
-      "id": "850968"
-    },
-    "857652": {
-      "last_star_ts": 0,
-      "completion_day_level": {
-
-      },
-      "name": "Nikita Kurpas",
-      "id": "857652",
-      "stars": 0,
-      "local_score": 0,
-      "global_score": 0
+      "last_star_ts": "0",
+      "local_score": 0
     },
     "895642": {
-      "last_star_ts": "1607369924",
+      "id": "895642",
+      "stars": 14,
+      "name": "JSFernandes",
       "completion_day_level": {
         "1": {
           "1": {
@@ -2036,17 +2803,16 @@
           }
         }
       },
-      "name": "JSFernandes",
-      "stars": 14,
-      "id": "895642",
+      "last_star_ts": "1607369924",
       "global_score": 0,
       "local_score": 626
     },
     "896252": {
-      "global_score": 0,
-      "local_score": 1397,
       "id": "896252",
-      "stars": 22,
+      "stars": 41,
+      "name": "Cassio Tavares",
+      "global_score": 0,
+      "last_star_ts": "1608530793",
       "completion_day_level": {
         "1": {
           "1": {
@@ -2135,14 +2901,93 @@
           "2": {
             "get_star_ts": "1607669798"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607751731"
+          },
+          "2": {
+            "get_star_ts": "1607753733"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607836465"
+          },
+          "2": {
+            "get_star_ts": "1607973643"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607924625"
+          },
+          "2": {
+            "get_star_ts": "1607930291"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608011764"
+          },
+          "2": {
+            "get_star_ts": "1608011839"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608096758"
+          },
+          "2": {
+            "get_star_ts": "1608099674"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608187682"
+          },
+          "2": {
+            "get_star_ts": "1608194295"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608273303"
+          },
+          "2": {
+            "get_star_ts": "1608286390"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608416573"
+          },
+          "2": {
+            "get_star_ts": "1608431228"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608447346"
+          }
+        },
+        "21": {
+          "1": {
+            "get_star_ts": "1608530462"
+          },
+          "2": {
+            "get_star_ts": "1608530793"
+          }
         }
       },
-      "last_star_ts": "1607669798",
-      "name": "Cassio Tavares"
+      "local_score": 2722
     },
     "980177": {
+      "local_score": 382,
       "stars": 9,
       "id": "980177",
+      "name": "Samia Drappeau",
+      "last_star_ts": "1607182550",
       "completion_day_level": {
         "1": {
           "1": {
@@ -2182,16 +3027,13 @@
           }
         }
       },
-      "last_star_ts": "1607182550",
-      "name": "Samia Drappeau",
-      "global_score": 0,
-      "local_score": 382
+      "global_score": 0
     },
     "980453": {
-      "local_score": 1132,
-      "global_score": 0,
+      "local_score": 1502,
+      "stars": 28,
       "id": "980453",
-      "stars": 22,
+      "name": "Grigoruta Paul",
       "completion_day_level": {
         "1": {
           "1": {
@@ -2280,16 +3122,37 @@
           "2": {
             "get_star_ts": "1607717451"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607798202"
+          },
+          "2": {
+            "get_star_ts": "1607800778"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607876005"
+          },
+          "2": {
+            "get_star_ts": "1607878123"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607932546"
+          },
+          "2": {
+            "get_star_ts": "1608062371"
+          }
         }
       },
-      "name": "Grigoruta Paul",
-      "last_star_ts": "1607717451"
+      "last_star_ts": "1608062371",
+      "global_score": 0
     },
     "983812": {
-      "global_score": 0,
       "local_score": 965,
-      "id": "983812",
-      "stars": 20,
       "completion_day_level": {
         "1": {
           "1": {
@@ -2372,10 +3235,15 @@
           }
         }
       },
-      "name": "Marcelo Gimenes de Oliveira",
-      "last_star_ts": "1607629738"
+      "last_star_ts": "1607629738",
+      "global_score": 0,
+      "id": "983812",
+      "stars": 20,
+      "name": "Marcelo Gimenes de Oliveira"
     },
     "985306": {
+      "local_score": 986,
+      "last_star_ts": "1607604594",
       "completion_day_level": {
         "1": {
           "1": {
@@ -2455,19 +3323,12 @@
           }
         }
       },
-      "name": "ilker karan",
-      "last_star_ts": "1607604594",
-      "stars": 19,
-      "id": "985306",
       "global_score": 0,
-      "local_score": 986
+      "name": "ilker karan",
+      "stars": 19,
+      "id": "985306"
     },
     "989736": {
-      "local_score": 1405,
-      "global_score": 0,
-      "id": "989736",
-      "stars": 22,
-      "last_star_ts": "1607667176",
       "completion_day_level": {
         "1": {
           "1": {
@@ -2556,13 +3417,90 @@
           "2": {
             "get_star_ts": "1607667176"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607751086"
+          },
+          "2": {
+            "get_star_ts": "1607752075"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607842415"
+          },
+          "2": {
+            "get_star_ts": "1607948060"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607926193"
+          },
+          "2": {
+            "get_star_ts": "1607930156"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608009997"
+          },
+          "2": {
+            "get_star_ts": "1608010225"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608096164"
+          },
+          "2": {
+            "get_star_ts": "1608098112"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608197938"
+          },
+          "2": {
+            "get_star_ts": "1608198148"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608273635"
+          },
+          "2": {
+            "get_star_ts": "1608274177"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608358158"
+          },
+          "2": {
+            "get_star_ts": "1608358964"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608458275"
+          },
+          "2": {
+            "get_star_ts": "1608464065"
+          }
         }
       },
-      "name": "zlymeda"
+      "last_star_ts": "1608464065",
+      "global_score": 0,
+      "stars": 40,
+      "name": "zlymeda",
+      "id": "989736",
+      "local_score": 2677
     },
     "1014836": {
-      "stars": 13,
-      "id": "1014836",
+      "local_score": 1222,
+      "last_star_ts": "1607876149",
       "completion_day_level": {
         "1": {
           "1": {
@@ -2615,17 +3553,60 @@
         "7": {
           "1": {
             "get_star_ts": "1607381869"
+          },
+          "2": {
+            "get_star_ts": "1607874857"
+          }
+        },
+        "8": {
+          "1": {
+            "get_star_ts": "1607862970"
+          },
+          "2": {
+            "get_star_ts": "1607868982"
+          }
+        },
+        "9": {
+          "1": {
+            "get_star_ts": "1607871566"
+          },
+          "2": {
+            "get_star_ts": "1607872184"
+          }
+        },
+        "10": {
+          "1": {
+            "get_star_ts": "1607860965"
+          },
+          "2": {
+            "get_star_ts": "1607861227"
+          }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607795571"
+          },
+          "2": {
+            "get_star_ts": "1607799710"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607857540"
+          },
+          "2": {
+            "get_star_ts": "1607876149"
           }
         }
       },
-      "name": "Marek Stana",
-      "last_star_ts": "1607381869",
       "global_score": 0,
-      "local_score": 621
+      "name": "Marek Stana",
+      "stars": 24,
+      "id": "1014836"
     },
     "1017922": {
-      "stars": 4,
-      "id": "1017922",
+      "local_score": 120,
+      "global_score": 0,
       "last_star_ts": "1606904637",
       "completion_day_level": {
         "1": {
@@ -2645,12 +3626,15 @@
           }
         }
       },
+      "stars": 4,
       "name": "mnmaraes",
-      "global_score": 0,
-      "local_score": 120
+      "id": "1017922"
     },
     "1023981": {
-      "last_star_ts": "1606955056",
+      "stars": 4,
+      "id": "1023981",
+      "name": "Wojciech Kulikowski",
+      "global_score": 0,
       "completion_day_level": {
         "1": {
           "1": {
@@ -2659,15 +3643,23 @@
           "2": {
             "get_star_ts": "1606955056"
           }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1608351242"
+          },
+          "2": {
+            "get_star_ts": "1608352508"
+          }
         }
       },
-      "name": "Wojciech Kulikowski",
-      "id": "1023981",
-      "stars": 2,
-      "global_score": 0,
-      "local_score": 0
+      "last_star_ts": "1608352508",
+      "local_score": 74
     },
     "1026687": {
+      "local_score": 1871,
+      "global_score": 0,
+      "last_star_ts": "1608121876",
       "completion_day_level": {
         "1": {
           "1": {
@@ -2756,18 +3748,55 @@
           "2": {
             "get_star_ts": "1607676530"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607796547"
+          },
+          "2": {
+            "get_star_ts": "1607799016"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607851809"
+          },
+          "2": {
+            "get_star_ts": "1607858122"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1608025499"
+          },
+          "2": {
+            "get_star_ts": "1608030614"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608023191"
+          },
+          "2": {
+            "get_star_ts": "1608023941"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608119451"
+          },
+          "2": {
+            "get_star_ts": "1608121876"
+          }
         }
       },
-      "name": "ejossev",
-      "last_star_ts": "1607676530",
-      "stars": 22,
+      "stars": 32,
       "id": "1026687",
-      "local_score": 1228,
-      "global_score": 0
+      "name": "ejossev"
     },
     "1030382": {
-      "id": "1030382",
-      "stars": 2,
+      "local_score": 0,
+      "global_score": 0,
       "completion_day_level": {
         "1": {
           "1": {
@@ -2780,10 +3809,12 @@
       },
       "last_star_ts": "1606830593",
       "name": "Ahmed Hesham",
-      "local_score": 0,
-      "global_score": 0
+      "stars": 2,
+      "id": "1030382"
     },
     "1035109": {
+      "local_score": 0,
+      "global_score": 0,
       "completion_day_level": {
         "1": {
           "1": {
@@ -2795,11 +3826,9 @@
         }
       },
       "last_star_ts": "1606833843",
-      "name": "Mayank",
-      "stars": 2,
       "id": "1035109",
-      "global_score": 0,
-      "local_score": 0
+      "stars": 2,
+      "name": "Mayank"
     },
     "1039922": {
       "completion_day_level": {
@@ -2853,18 +3882,14 @@
         }
       },
       "last_star_ts": "1607277666",
-      "name": "lukenorman",
+      "global_score": 0,
       "stars": 12,
       "id": "1039922",
-      "global_score": 0,
+      "name": "lukenorman",
       "local_score": 491
     },
     "1040544": {
-      "local_score": 912,
-      "global_score": 0,
-      "stars": 19,
-      "id": "1040544",
-      "name": "darjama",
+      "local_score": 1026,
       "completion_day_level": {
         "1": {
           "1": {
@@ -2942,13 +3967,54 @@
           "1": {
             "get_star_ts": "1607583661"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607927153"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607918233"
+          }
         }
       },
-      "last_star_ts": "1607583661"
+      "last_star_ts": "1607927153",
+      "global_score": 0,
+      "stars": 21,
+      "id": "1040544",
+      "name": "darjama"
     },
     "1143085": {
-      "last_star_ts": "1607688603",
+      "local_score": 2271,
+      "stars": 39,
+      "id": "1143085",
+      "name": "TheLartians",
       "completion_day_level": {
+        "1": {
+          "1": {
+            "get_star_ts": "1607766267"
+          },
+          "2": {
+            "get_star_ts": "1607766462"
+          }
+        },
+        "2": {
+          "1": {
+            "get_star_ts": "1607767033"
+          },
+          "2": {
+            "get_star_ts": "1607767440"
+          }
+        },
+        "3": {
+          "1": {
+            "get_star_ts": "1607767900"
+          },
+          "2": {
+            "get_star_ts": "1607768337"
+          }
+        },
         "4": {
           "1": {
             "get_star_ts": "1607075903"
@@ -3012,17 +4078,84 @@
           "2": {
             "get_star_ts": "1607688603"
           }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1607764482"
+          },
+          "2": {
+            "get_star_ts": "1607765673"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1607853132"
+          },
+          "2": {
+            "get_star_ts": "1607863866"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1607937752"
+          },
+          "2": {
+            "get_star_ts": "1607940423"
+          }
+        },
+        "15": {
+          "1": {
+            "get_star_ts": "1608019393"
+          },
+          "2": {
+            "get_star_ts": "1608019535"
+          }
+        },
+        "16": {
+          "1": {
+            "get_star_ts": "1608150669"
+          },
+          "2": {
+            "get_star_ts": "1608163826"
+          }
+        },
+        "17": {
+          "1": {
+            "get_star_ts": "1608227131"
+          },
+          "2": {
+            "get_star_ts": "1608227343"
+          }
+        },
+        "18": {
+          "1": {
+            "get_star_ts": "1608286698"
+          },
+          "2": {
+            "get_star_ts": "1608286969"
+          }
+        },
+        "19": {
+          "1": {
+            "get_star_ts": "1608368904"
+          },
+          "2": {
+            "get_star_ts": "1608372340"
+          }
+        },
+        "20": {
+          "1": {
+            "get_star_ts": "1608499075"
+          }
         }
       },
-      "name": "TheLartians",
-      "id": "1143085",
-      "stars": 16,
-      "global_score": 0,
-      "local_score": 976
+      "last_star_ts": "1608499075",
+      "global_score": 0
     },
     "1222038": {
-      "local_score": 0,
-      "global_score": 0,
+      "stars": 2,
+      "id": "1222038",
+      "name": "Ondra Hráček",
       "completion_day_level": {
         "1": {
           "1": {
@@ -3033,46 +4166,44 @@
           }
         }
       },
-      "name": "Ondra Hráček",
       "last_star_ts": "1607360387",
-      "stars": 2,
-      "id": "1222038"
-    },
-    "1222060": {
-      "last_star_ts": 0,
-      "completion_day_level": {
-
-      },
-      "name": "Nazrulla Sadullaev",
-      "id": "1222060",
-      "stars": 0,
       "global_score": 0,
       "local_score": 0
     },
-    "1222791": {
+    "1222060": {
+      "local_score": 0,
+      "id": "1222060",
+      "stars": 0,
+      "name": "Nazrulla Sadullaev",
+      "global_score": 0,
+      "last_star_ts": "0",
       "completion_day_level": {
 
-      },
+      }
+    },
+    "1222791": {
       "name": "Osman Mehinagic",
-      "last_star_ts": 0,
       "stars": 0,
       "id": "1222791",
-      "local_score": 0,
-      "global_score": 0
-    },
-    "1223160": {
-      "name": "Zoltan Varadi",
+      "global_score": 0,
       "completion_day_level": {
 
       },
-      "last_star_ts": 0,
+      "last_star_ts": "0",
+      "local_score": 0
+    },
+    "1223160": {
       "stars": 0,
       "id": "1223160",
+      "name": "Zoltan Varadi",
+      "last_star_ts": "0",
+      "completion_day_level": {
+
+      },
       "global_score": 0,
       "local_score": 0
     },
     "1228061": {
-      "local_score": 552,
       "global_score": 0,
       "completion_day_level": {
         "1": {
@@ -3130,38 +4261,97 @@
           "2": {
             "get_star_ts": "1607624231"
           }
+        },
+        "8": {
+          "1": {
+            "get_star_ts": "1607823114"
+          },
+          "2": {
+            "get_star_ts": "1607824395"
+          }
+        },
+        "9": {
+          "1": {
+            "get_star_ts": "1607888503"
+          },
+          "2": {
+            "get_star_ts": "1607894620"
+          }
+        },
+        "10": {
+          "1": {
+            "get_star_ts": "1607908089"
+          },
+          "2": {
+            "get_star_ts": "1607968098"
+          }
+        },
+        "11": {
+          "1": {
+            "get_star_ts": "1607997945"
+          },
+          "2": {
+            "get_star_ts": "1608085558"
+          }
+        },
+        "12": {
+          "1": {
+            "get_star_ts": "1608154972"
+          },
+          "2": {
+            "get_star_ts": "1608162967"
+          }
+        },
+        "13": {
+          "1": {
+            "get_star_ts": "1608168154"
+          },
+          "2": {
+            "get_star_ts": "1608224609"
+          }
+        },
+        "14": {
+          "1": {
+            "get_star_ts": "1608248702"
+          },
+          "2": {
+            "get_star_ts": "1608254121"
+          }
         }
       },
-      "last_star_ts": "1607624231",
+      "last_star_ts": "1608254121",
+      "id": "1228061",
+      "stars": 28,
       "name": "Dave Aronson",
-      "stars": 14,
-      "id": "1228061"
+      "local_score": 1309
     },
     "1233049": {
-      "id": "1233049",
-      "stars": 0,
+      "local_score": 0,
+      "global_score": 0,
       "completion_day_level": {
 
       },
-      "name": "Manish Menaria",
-      "last_star_ts": 0,
-      "local_score": 0,
-      "global_score": 0
+      "last_star_ts": "0",
+      "stars": 0,
+      "id": "1233049",
+      "name": "Manish Menaria"
     },
     "1235308": {
-      "global_score": 0,
       "local_score": 0,
       "stars": 0,
+      "name": "shashankp",
       "id": "1235308",
+      "global_score": 0,
+      "last_star_ts": "0",
       "completion_day_level": {
 
-      },
-      "last_star_ts": 0,
-      "name": "shashankp"
+      }
     },
     "1236013": {
-      "global_score": 0,
       "local_score": 365,
+      "id": "1236013",
+      "stars": 10,
+      "name": "Josh Houghtelin",
       "last_star_ts": "1607546979",
       "completion_day_level": {
         "1": {
@@ -3205,12 +4395,9 @@
           }
         }
       },
-      "name": "Josh Houghtelin",
-      "id": "1236013",
-      "stars": 10
+      "global_score": 0
     },
     "1237779": {
-      "local_score": 124,
       "global_score": 0,
       "last_star_ts": "1607473600",
       "completion_day_level": {
@@ -3238,13 +4425,14 @@
       },
       "name": "Owen Lopez",
       "stars": 5,
-      "id": "1237779"
+      "id": "1237779",
+      "local_score": 124
     },
     "1241224": {
-      "global_score": 0,
       "local_score": 0,
-      "id": "1241224",
+      "name": "Ruslan Zalalov",
       "stars": 2,
+      "id": "1241224",
       "completion_day_level": {
         "1": {
           "1": {
@@ -3255,21 +4443,21 @@
           }
         }
       },
-      "name": "Ruslan Zalalov",
-      "last_star_ts": "1607467669"
+      "last_star_ts": "1607467669",
+      "global_score": 0
     },
     "1252370": {
-      "global_score": 0,
       "local_score": 0,
-      "id": "1252370",
       "stars": 0,
+      "id": "1252370",
+      "name": "Jihad Asad",
+      "global_score": 0,
+      "last_star_ts": "0",
       "completion_day_level": {
 
-      },
-      "name": "Jihad Asad",
-      "last_star_ts": 0
+      }
     }
   },
-  "event": "2020",
-  "owner_id": "637864"
+  "owner_id": "637864",
+  "event": "2020"
 }
